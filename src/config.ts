@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://be-no2u-8lfg45lue-chaitanya1439s-projects.vercel.app/api"
