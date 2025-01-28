@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://be-no2u-8lfg45lue-chaitanya1439s-projects.vercel.app/api"
+export const BACKEND_URL = "https://be-h8ib.vercel.app/api"
