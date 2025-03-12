@@ -20,7 +20,6 @@ export function Home() {
       <div className="max-w-2xl w-full">
         <div className="text-center mb-8">
           <div className="flex justify-center mb-4">
-            <Wand2 className="w-12 h-12 text-blue-400" />
           </div>
           <h1 className="text-4xl font-bold text-gray-100 mb-4">
             Software Builder AI
@@ -42,7 +41,7 @@ export function Home() {
               type="submit"
               className="w-full mt-4 bg-blue-600 text-gray-100 py-3 px-6 rounded-lg font-medium hover:bg-blue-700 transition-colors"
             >
-              Generate Website Plan
+              Generate
             </button>
           </div>
         </form>
